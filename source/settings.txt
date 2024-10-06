@@ -1,0 +1,8 @@
+{
+	"model":"ru_set5.5.pt",
+	"wish_list":"ru_set5.5_Abomination_Velkoz.txt",
+	"wish_list_refresh_value":100,
+	"conf":0.9999,
+	"beforeclick_delay":0,
+	"afterclick_delay":0.1
+}
