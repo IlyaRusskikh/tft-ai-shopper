@@ -7,7 +7,7 @@ tft-ai-shopper provides automatic purchasing selected champions units from list 
 - Added Python to PATH
 
 ## How to install
-1. Download and unpack this repository or clone it  `git clone`
+1. Download and unpack this repository or clone it  `git clone https://github.com/IlyaRusskikh/tft-ai-shopper`
 2. Open project folder and launch the terminal
 3. Create virtual enviroment `python -m venv .venv`
 4. Install dependences `.venv\Scripts\pip install -r requirements.txt`
