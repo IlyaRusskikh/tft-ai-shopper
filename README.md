@@ -5,6 +5,7 @@ tft-ai-shopper provides automatic purchasing selected champions units from list 
 - GPU with CUDA [(check list here)](https://ru.wikipedia.org/wiki/CUDA "(check list here)")
 - Python >= 3.12.3 (it might work with older versions)
 - Added Python to PATH
+- 1920x1080 resolution
 
 ## How to install
 1. Download and unpack this repository or clone it  `git clone https://github.com/IlyaRusskikh/tft-ai-shopper`
