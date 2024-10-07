@@ -1,5 +1,7 @@
 # tft-ai-shopper
-tft-ai-shopper provides automatic purchasing selected champions units from list by pre trained YOLOv8 model.
+Tft-ai-shopper provides automatic purchasing selected champions units from list by pre trained YOLOv8 model.
+
+*Read this in other languages: Русский.*
 ## Requirements
 - Windows >= 10
 - GPU with CUDA [(check list here)](https://ru.wikipedia.org/wiki/CUDA "(check list here)")
