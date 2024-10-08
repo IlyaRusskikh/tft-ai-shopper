@@ -4,10 +4,15 @@ import crop
 from window_capture import window_capture
 import controller
 import torch
+import time
 
 
 if not torch.cuda.is_available():
     print('CUDA is not available ;(')
+    time.sleep(2)
+    for t in range(3):
+        print(f'process will close in {3-t}...')
+        time.sleep(1)
     exit(0)
 
 with open('source/settings.txt', encoding='utf-8', mode='r') as f_in:
