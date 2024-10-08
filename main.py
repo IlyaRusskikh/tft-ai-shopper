@@ -11,7 +11,7 @@ if not torch.cuda.is_available():
     print('CUDA is not available ;(')
     time.sleep(2)
     for t in range(3):
-        print(f'process will close in {3-t}...')
+        print(f'Program will close in {3-t}...')
         time.sleep(1)
     exit(0)
 
