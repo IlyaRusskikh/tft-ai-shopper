@@ -1,6 +1,6 @@
 {
-	"model":"ru_set5.5.pt",
-	"wish_list":"ru_set5.5_Abomination_Velkoz.txt",
+	"model":"ru_set12.pt",
+	"wish_list":"ru_set12_Portals_Ryze.txt",
 	"wish_list_refresh_value":100,
 	"conf":0.9999,
 	"beforeclick_delay":0,
